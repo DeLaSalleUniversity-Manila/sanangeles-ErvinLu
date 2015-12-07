@@ -18,9 +18,9 @@ Getting Started
 1. Click *Tools/Android/Sync Project with Gradle Files*.
 1. Click *Run/Run 'app'*.
 
-Screenshots
+Videocapture
 -----------
-![screenshot](screenshot.png)
+(https://youtu.be/Y5ktSrS7MKY)
 
 Support
 -------
